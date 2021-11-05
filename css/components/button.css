@@ -1,0 +1,7 @@
+.banner-btn{
+  background-color: cadetblue;
+  /* border: 1px solid cadetblue; */
+  padding:0.2em 1em;
+  border-radius: 1em;
+  font-weight: bolder;
+}

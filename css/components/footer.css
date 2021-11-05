@@ -1,0 +1,25 @@
+.footer{
+  background-color: rgba(187, 167, 187, 0.712);
+  height: 100px;
+  text-align: center;
+  }
+
+.logo-social{
+  color: rgb(255, 255, 255);
+  font-size: large;
+  height: 40px;
+  align-items: flex-end;
+  justify-content: space-between ;
+  margin: auto;
+  width: 100px;
+  padding-top: 15px;
+}
+
+.logo{
+  color: azure;
+}
+
+.footer-text{
+  /* padding-top: 50px ; */
+  width: 200px ;
+}

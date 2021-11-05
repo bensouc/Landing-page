@@ -1,0 +1,10 @@
+.central-section{
+  height: auto;
+  padding-bottom: 30px;
+  text-align: center;
+
+}
+
+.cards{
+  justify-content: space-evenly;
+}
