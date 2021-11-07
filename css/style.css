@@ -5,7 +5,7 @@
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
 /*  Homemade component CSS */
-@import url('/css/components/banner.css');
+@import url('./components/banner.css');
 @import url('/css/components/button.css');
 @import url('Landing-page/css/components/central_section.css');
 @import url('Landing-page/css/components/card.css');
