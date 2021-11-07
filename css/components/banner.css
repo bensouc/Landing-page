@@ -1,5 +1,5 @@
 .banner{
-  background-image: radial-gradient(rgba(129, 112, 112, 0.541),rgba(128, 128, 128, 0.24)), url(../../images/banner_backg.jpg);
+  background-image: radial-gradient(rgba(129, 112, 112, 0.541),rgba(128, 128, 128, 0.24)), url(../images/banner_backg.jpg);
   height: 400px;
   background-size: cover;
   align-items: center;
