@@ -6,10 +6,10 @@
 
 /*  Homemade component CSS */
 @import url('./components/banner.css');
-@import url('/components/button.css');
-@import url('/components/central_section.css');
-@import url('/components/card.css');
-@import url('/components/footer.css');
+@import url('./components/button.css');
+@import url('./components/central_section.css');
+@import url('./components/card.css');
+@import url('./components/footer.css');
 
 /* Utilities */
 body {
