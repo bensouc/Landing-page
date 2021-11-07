@@ -5,11 +5,11 @@
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
 /*  Homemade component CSS */
-@import url('css/components/banner.css');
-@import url('/landing/css/components/button.css');
-@import url('/landing/css/components/central_section.css');
-@import url('/landing/css/components/card.css');
-@import url('/landing/css/components/footer.css');
+@import url('Landing-page/css/components/banner.css');
+@import url('Landing-page/css/components/button.css');
+@import url('Landing-page/css/components/central_section.css');
+@import url('Landing-page/css/components/card.css');
+@import url('Landing-page/css/components/footer.css');
 
 /* Utilities */
 body {
